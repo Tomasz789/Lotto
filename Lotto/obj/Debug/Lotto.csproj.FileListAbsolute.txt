@@ -1,0 +1,9 @@
+C:\Users\Tomasz\source\repos\Lotto\Lotto\bin\Debug\Lotto.exe
+C:\Users\Tomasz\source\repos\Lotto\Lotto\bin\Debug\Lotto.pdb
+C:\Users\Tomasz\source\repos\Lotto\Lotto\obj\Debug\Lotto.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz\source\repos\Lotto\Lotto\obj\Debug\Lotto.Form1.resources
+C:\Users\Tomasz\source\repos\Lotto\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+C:\Users\Tomasz\source\repos\Lotto\Lotto\obj\Debug\Lotto.csproj.GenerateResource.cache
+C:\Users\Tomasz\source\repos\Lotto\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz\source\repos\Lotto\Lotto\obj\Debug\Lotto.exe
+C:\Users\Tomasz\source\repos\Lotto\Lotto\obj\Debug\Lotto.pdb
